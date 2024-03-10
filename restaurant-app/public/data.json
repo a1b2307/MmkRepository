@@ -1,0 +1,277 @@
+{
+    "items": [
+        {
+            "category": "Pizza",
+            "id": "1p",
+            "name": "American Cheesy Pizza",
+            "prize": 300,
+            "url": "https://www.mystore.in/s/62ea2c599d1398fa16dbae0a/64bcdd3f862a0049d30a29bf/nmk2pultmxqeggbt1-blxtrmwxngn46o6nazt3p5yzndziqspewaz79tw4gul5ixq_mrol6e1m8ivwmw6c7d9smwsbgg1xhrtmjswz0.jpg"
+        },
+        {
+            "category": "Pizza",
+            "id": "2p",
+            "name": "Bacon Pizza",
+            "prize": 450,
+            "url": "https://www.budgetbytes.com/wp-content/uploads/2016/05/Bacon-and-Caramelized-Bacon-Pizza-cooked-1-500x480.jpg"
+        },
+        {
+            "category": "Pizza",
+            "id": "3p",
+            "name": "Double Cheese Pizza",
+            "prize": 500,
+            "url": "https://images.herzindagi.info/image/2018/Jul/double-layer-cheese-pizza-homemade-recipe-main.jpg"
+        },
+        {
+            "category": "Pizza",
+            "id": "4p",
+            "name": "Italian Grilled Pizza",
+            "prize": 450,
+            "url": "https://galbanicheese.com/wp-content/uploads/2019/09/Italian-Grilled-Pizza-with-Fresh-Mozzarella-72DPI-e1476299854544-800x600.jpg"
+        },
+        {
+            "category": "Pizza",
+            "id": "5p",
+            "name": "Keema Pizza",
+            "prize": 350,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0DvS9qf4bqlE9jmK2YYKj-On2gqOxcN1MA&usqp=CAUV"
+        },
+        {
+            "category": "Pizza",
+            "id": "6p",
+            "name": "Non Veg Pizza",
+            "prize": 500,
+            "url": "https://static.toiimg.com/thumb/53339084.cms?imgsize=85489&width=800&height=800"
+        },
+        {
+            "category": "Pizza",
+            "id": "7p",
+            "name": "Olives Pizza",
+            "prize": 200,
+            "url": "https://cdn7.kiwilimon.com/recetaimagen/15739/640x640/7759.jpg.webp"
+        },
+        {
+            "category": "Pizza",
+            "id": "8p",
+            "name": "Onion Pizza",
+            "prize": 250,
+            "url": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl-archanaskitchen.com/Grilled_Chicken_with_Caramelized_Onion_Whole_Wheat_Pizza_Recipe.jpg"
+        },
+        {
+            "category": "Pizza",
+            "id": "9p",
+            "name": "Oven Pizza",
+            "prize": 300,
+            "url": "https://fornopiombo.com/cdn/shop/articles/Ultimate-Guide-to-How-to-Use-a-Wood-Fired-Pizza-Oven.jpg?v=1650289980"
+        },
+        {
+            "category": "Pizza",
+            "id": "10p",
+            "name": "Tomato Pizza",
+            "prize": 350,
+            "url": "https://hips.hearstapps.com/womansday/assets/cm/15/09/54ef8b64366c1_-_fresh-tomato-pizza-kqgv52-xl.jpg"
+        },
+        {
+            "category": "Pizza",
+            "id": "11p",
+            "name": "Veg Pizza",
+            "prize": 240,
+            "url": "https://www.orchidsandsweettea.com/wp-content/uploads/2019/05/Veggie-Pizza-2-of-5-e1691215701129-500x375.jpg"
+        },
+        {
+            "category": "Pizza",
+            "id": "12p",
+            "name": "Italian Pizza",
+            "prize": 380,
+            "url": "https://media.30seconds.com/tip/lg/Italian-Meat-Lovers-Pizza-Recipe-49532-17e2ab1133-1661546146.jpg"
+        },
+        {
+            "category": "Rice Items",
+            "id": "1r",
+            "name": "Fry Piece Biriyani",
+            "prize": 250,
+            "url": "https://bhimavaram.online/image/cache/catalog/BO%20STORES/CHANDRIKA%20BIRYANI%20POINT/CBP032_2-1000x1000.jpg"
+        },
+        {
+            "category": "Rice Items",
+            "id": "2r",
+            "name": "Chicken Biriyani",
+            "prize": 300,
+            "url": "https://recipes.net/wp-content/uploads/2023/05/air-fryer-chicken-biryani-recipe_6968eb6ab4a5ae22d136dab86c9ea8af.jpeg"
+        },
+        {
+            "category": "Rice Items",
+            "id": "3r",
+            "name": "Veg Biriyani",
+            "prize": 220,
+            "url": "https://vegecravings.com/wp-content/uploads/2016/07/veg-biryani-recipe-step-by-step-instructions.jpg.webp"
+        },
+        {
+            "category": "Rice Items",
+            "id": "4r",
+            "name": "Dum Biriyani",
+            "prize": 320,
+            "url": "https://www.relishthebite.com/wp-content/uploads/2015/06/Chicken-Biryani-11.jpg"
+        },
+        {
+            "category": "Rice Items",
+            "id": "5r",
+            "name": "Egg Biriyani",
+            "prize": 240,
+            "url": "https://spicecravings.com/wp-content/uploads/2020/10/Egg-Biryani-Featured-1.jpg"
+        },
+        {
+            "category": "Rice Items",
+            "id": "6r",
+            "name": "Chicken Fried Rice",
+            "prize": 260,
+            "url": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Fried-Rice-min.jpg"
+        },
+        {
+            "category": "Rice Items",
+            "id": "7r",
+            "name": "Paneer Biriyani",
+            "prize": 340,
+            "url": "https://ministryofcurry.com/wp-content/uploads/2023/10/paneer-biryani_-9.jpg"
+        },
+        {
+            "category": "Rice Items",
+            "id": "8r",
+            "name": "Full Meals",
+            "prize": 180,
+            "url": "https://thumbs.dreamstime.com/b/south-indian-meals-ai-generative-image-south-indian-meals-traditional-platter-consisting-rice-sambar-rasam-vegetable-281161788.jpg"
+        },
+        {
+            "category": "Rice Items",
+            "id": "9r",
+            "name": "Grilled Chicken Biriyani",
+            "prize": 350,
+            "url": "https://s3.ap-south-1.amazonaws.com/shopnowchat.com/Medium/638056732491984181_SmokyGrilledBiryaniBucketLargejpg123202220729PM"
+        },
+        {
+            "category": "Rice Items",
+            "id": "10r",
+            "name": "Tandoori Biriyani",
+            "prize": 320,
+            "url": "https://i0.wp.com/www.thebusyapron.com/wp-content/uploads/2020/07/IMG_20200715_191632-scaled.jpg?fit=2560%2C1920"
+        },
+        {
+            "category": "Cold Drinks",
+            "id": "1c",
+            "name": "Cold Coffee",
+            "prize": 50,
+            "url": "https://static.toiimg.com/thumb/53859488.cms?imgsize=150956&width=800&height=800"
+        },
+        {
+            "category": "Cold Drinks",
+            "id": "2c",
+            "name": "Strawberry Milk Shake",
+            "prize": 80,
+            "url": "https://www.skinnymixes.com/cdn/shop/articles/1.jpg?v=1612293629"
+        },
+        {
+            "category": "Cold Drinks",
+            "id": "3c",
+            "name": "Cherry Milk Shake",
+            "prize": 90,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPukN0lqGaZSyleYPrEvQLRn_IqxXEHfQhXQ&usqp=CAU"
+        },
+        {
+            "category": "Cold Drinks",
+            "id": "4c",
+            "name": "Cold Hazelnut",
+            "prize": 110,
+            "url": "https://markieskitchen.com/wp-content/uploads/2023/06/hazelnut-iced-coffee-1.jpg"
+        },
+        {
+            "category": "Cold Drinks",
+            "id": "5c",
+            "name": "Cold Chocolate Coffee",
+            "prize": 100,
+            "url": "https://www.whiskaffair.com/wp-content/uploads/2021/04/Chocolate-Cold-Coffee-2-3.jpg"
+        },
+        {
+            "category": "Cold Drinks",
+            "id": "6c",
+            "name": "Raspberry Milk Shake",
+            "prize": 90,
+            "url": "https://www.livewellbakeoften.com/wp-content/uploads/2016/01/Raspberry-Banana-Smoothie-1-500x500.jpg"
+        },
+        {
+            "category": "Cold Drinks",
+            "id": "7c",
+            "name": "Mixed Fruit Milk Shake",
+            "prize": 80,
+            "url": "https://vismaifood.com/storage/app/uploads/public/cf7/62b/690/thumb__700_0_0_0_auto.jpg"
+        },
+        {
+            "category": "Cold Drinks",
+            "id": "8c",
+            "name": "Milk Shake Combo",
+            "prize": 350,
+            "url": "https://i.ytimg.com/vi/-MTa9JY5WnA/maxresdefault.jpg"
+        },
+        {
+            "category": "Cold Drinks",
+            "id": "9c",
+            "name": "Mango Milk Shake",
+            "prize": 100,
+            "url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/mango-milkshake-recipe.jpg.webp"
+        },
+        {
+            "category": "Cold Drinks",
+            "id": "10c",
+            "name": "Banana Milk Shake",
+            "prize": 70,
+            "url": "https://yoursmoothieguide.com/wp-content/uploads/2022/01/Banana-Milkshake-6.jpg"
+        },
+        {
+            "category": "Cold Drinks",
+            "id": "11c",
+            "name": "Strawberry Cappuccino",
+            "prize": 100,
+            "url": "https://us.123rf.com/450wm/drimerz/drimerz2307/drimerz230700101/212013841-yogur-de-fresa-con-fresas-frescas-en-taza-blanca-sobre-mesa-de-madera.jpg?ver=6"
+        },
+        {
+            "category": "Hot Drinks",
+            "id": "1h",
+            "name": "Black Coffee",
+            "prize": 30,
+            "url": "https://images.herzindagi.info/image/2018/Aug/Drinking-Black-Coffee-Everyday-Has-These-Benefits.jpg"
+        },
+        {
+            "category": "Hot Drinks",
+            "id": "2h",
+            "name": "Hot Tea",
+            "prize": 40,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyDTldxiD5MN2FpVj0jk9dm9SiQPi1Wmjm_HxEsxmkS9bnZY6pJfvS55W19-OP2VPOEU&usqp=CAU"
+        },
+        {
+            "category": "Hot Drinks",
+            "id": "3h",
+            "name": "Hot Coffee",
+            "prize": 40,
+            "url": "https://www.bigbasket.com/media/uploads/p/l/40233401_1-fresho-fresh-hot-coffee.jpg"
+        },
+        {
+            "category": "Hot Drinks",
+            "id": "4h",
+            "name": "Hot Cappuccino",
+            "prize": 80,
+            "url": "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-cappuccino-007.jpg"
+        },
+        {
+            "category": "Hot Drinks",
+            "id": "5h",
+            "name": "Hot Chocolate",
+            "prize": 90,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIB77bjIrvKrPnmIIw3wMB3KYc0Z9ZEJ2fg&usqp=CAU"
+        },
+        {
+            "category": "Hot Drinks",
+            "id": "6h",
+            "name": "Hot Hazelnut",
+            "prize": 100,
+            "url": "https://shottbeverages.com/wp-content/uploads/2020/07/hazelnut_latte.jpg"
+        }
+    ]
+}
