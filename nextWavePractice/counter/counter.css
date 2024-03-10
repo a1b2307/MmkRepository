@@ -1,0 +1,15 @@
+*{
+    justify-items: center;
+}
+p{
+    font-size: 40px;
+    font-weight: bold;
+}
+.container{
+    background-color: gray;
+    height: 200px;
+    width: 300px;
+    border-radius: 50px;
+    margin: 100px 100px 50% 40%;
+    box-shadow: 15px 20px 25px rgba(0, 0, 0, 1.0);
+}
